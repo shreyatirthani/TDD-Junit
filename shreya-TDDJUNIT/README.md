@@ -1,2 +1,0 @@
-# shreya-TDD-JUNIT
-EPAM TASK
